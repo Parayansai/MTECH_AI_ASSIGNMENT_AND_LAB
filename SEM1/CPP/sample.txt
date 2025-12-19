@@ -1,0 +1,4 @@
+Hello World!
+This is a simple text file.
+It will be used to test counting vowels and consonants.
+Let's see how many letters are there.
